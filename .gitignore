@@ -1,0 +1,7 @@
+analyzecomments_v2.py
+config.py
+cumulative-comment-data.csv
+cumulative-comment-data-v2.csv
+comment-data/
+.vscode/
+__pycache__/
